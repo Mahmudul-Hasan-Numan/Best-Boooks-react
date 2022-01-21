@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Beloved",
+        "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1637604881-41U9in1KBbL._SL500_.jpg?crop=0.992xw:1xh;center,top&resize=768:*",
+        "writer": "toni morrison",
+        "page": 288,
+        "price": 10,
+        "publishers": "knopf"
+    },
+    {
+        "name": "Giovanni's Room",
+        "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1637606027-51A0AUbGoNL._SL500_.jpg?crop=1.00xw:0.924xh;0,0.00200xh&resize=768:*",
+        "writer": "james baldwin",
+        "page": 200,
+        "price": 12,
+        "publishers": "evermans library"
+    },
+    {
+        "name": "When Breath Becomes Air",
+        "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1625676851-41csVfG7xxL._SL500_.jpg?crop=0.983xw:1xh;center,top&resize=768:*",
+        "writer": "Abraham Verghese",
+        "page": 228,
+        "price": 15,
+        "publishers": "random house"
+    },
+    {
+        "name": "The Alchemist",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41RV3UHnwsL._SX323_BO1,204,203,200_.jpg",
+        "writer": "paulo Coelho",
+        "page": 192,
+        "price": 20,
+        "publishers": "HerperOne"
+    },
+    {
+        "name": "Harper Sapiens: A Brief History Of Humankind",
+        "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1637607765-41lolL22gL._SL500_.jpg?crop=0.981xw:0.930xh;0.00949xw,0.0380xh&resize=768:*",
+        "writer": "Yoval Noah Harari",
+        "page": 464,
+        "price": 14,
+        "publishers": "herper"
+    },
+    {
+        "name": "Untamed",
+        "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1631727802-51m7MVU4OWL._SL500_.jpg?crop=1xw:0.993xh;center,top&resize=768:*",
+        "writer": "Glennon  Doyle",
+        "page": 352,
+        "price": 16,
+        "publishers": "The Dial Press"
+    },
+    {
+        "name": "Fahrenheit 45",
+        "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1637609312-41Hg-O-gnaL._SL500_.jpg?crop=1xw:0.978xh;center,top&resize=768:*",
+        "writer": "Ray Bradhbury",
+        "page": 176,
+        "price": 13,
+        "publishers": "Saimon and Schuster"
+    },
+    {
+        "name": "Mans Search for Meaning",
+        "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1637607916-51k5mrtvqQL._SL500_.jpg?crop=0.963xw:1xh;center,top&resize=768:*",
+        "writer": "Victor E Frankle",
+        "page": 200,
+        "price": 9,
+        "publishers": "Beacon Press"
+    },
+    {
+        "name": "A Thousand Splendid Suns",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51t9FW3VchL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "writer": "Khaled Husain",
+        "page": 372,
+        "price": 11,
+        "publishers": "reverhead"
+    },
+    {
+        "name": "Little Women",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61O+dMkKUOL._SY344_BO1,204,203,200_.jpg",
+        "writer": "Lousa May Alcott",
+        "page": 777,
+        "price": 3,
+        "publishers": "unknown"
+    },
+    {
+        "name": "The Little Prince",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/410PnObFmWL._SX327_BO1,204,203,200_.jpg",
+        "writer": "Antione de saint",
+        "page": 96,
+        "price": 7,
+        "publishers": "unknown"
+    },
+    {
+        "name": "Life of Pi",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51PP9NKKYBL._SX352_BO1,204,203,200_.jpg",
+        "writer": "Yann Martel",
+        "page": 336,
+        "price": 8,
+        "publishers": "Mariner books"
+    }
+]

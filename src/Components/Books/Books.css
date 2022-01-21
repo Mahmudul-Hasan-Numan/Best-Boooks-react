@@ -1,0 +1,13 @@
+.display-books{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.books-container{
+     border-right: 1px solid mediumaquamarine;
+     margin-right: 5px;
+     margin-left: 60px;
+}
+.book-display{
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+}

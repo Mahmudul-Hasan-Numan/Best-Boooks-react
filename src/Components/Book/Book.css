@@ -1,0 +1,31 @@
+.book-design{
+    margin: 10px;
+    border: 2px solid khaki;
+    background-color: rgba(240, 128, 128, 0.562);
+    border-radius: 10px;
+}
+.image-position{
+    text-align: center;
+}
+.image-position img{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.books-details{
+    padding: 5px;
+}
+
+.books-button{
+    height: 40px;
+    width: 150px;
+    color: #e5e9fd;
+        background-color: rgba(68, 15, 214, 0.425);
+        border-radius: 2px;
+        font-weight: bold;
+        margin-bottom: 10px;
+        cursor: pointer;
+        border: 0;
+
+}

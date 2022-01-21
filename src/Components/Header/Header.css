@@ -1,0 +1,14 @@
+.header{
+    background-color: bisque;
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+}
+.header-name{
+    color: #0f77ee;
+    font-weight: 600px;
+}
+.target-amount{
+   font-size:large;
+   font-weight: bold;
+}
